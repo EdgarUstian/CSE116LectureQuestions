@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="570ba57f-af63-4c4b-a594-0162f3060fbf" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CSE116" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/fp/ReturnFunction.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.0</find>
+      <find>VendingMachine</find>
+      <find>workingVending</find>
+      <find>T</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/tests/UnitTests.scala" />
+        <option value="$PROJECT_DIR$/src/tests/UnitTesting.scala" />
+        <option value="$PROJECT_DIR$/src/lecture/LectureQuestion.scala" />
+        <option value="$PROJECT_DIR$/src/lecture/FirstObject.scala" />
+        <option value="$PROJECT_DIR$/src/lecture/DataStructures.scala" />
+        <option value="$PROJECT_DIR$/src/tests/TestDataStructures.scala" />
+        <option value="$PROJECT_DIR$/src/oop/Score.scala" />
+        <option value="$PROJECT_DIR$/src/tests/TestReferee.scala" />
+        <option value="$PROJECT_DIR$/src/oop/TestReferee.scala" />
+        <option value="$PROJECT_DIR$/src/oop/Team.scala" />
+        <option value="$PROJECT_DIR$/src/oop/Referee.scala" />
+        <option value="$PROJECT_DIR$/src/inheritance/Dog.scala" />
+        <option value="$PROJECT_DIR$/src/inheritance/Cat.scala" />
+        <option value="$PROJECT_DIR$/src/inheritance/package.scala" />
+        <option value="$PROJECT_DIR$/src/inheritance/Animal.scala" />
+        <option value="$PROJECT_DIR$/src/tests/TestPolymorphism.scala" />
+        <option value="$PROJECT_DIR$/src/json/Store.scala" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/gui/Gui.scala" />
+        <option value="$PROJECT_DIR$/src/gui/rnjesus.scala" />
+        <option value="$PROJECT_DIR$/src/words/RhymingDictionary.scala" />
+        <option value="$PROJECT_DIR$/src/words/Word.scala" />
+        <option value="$PROJECT_DIR$/src/scriptFile.scala" />
+        <option value="$PROJECT_DIR$/src/words/Main.scala" />
+        <option value="$PROJECT_DIR$/src/words/YourWordAdapter.scala" />
+        <option value="$PROJECT_DIR$/src/vending/VendingMachineProperties.scala" />
+        <option value="$PROJECT_DIR$/src/vending/VendingMachineWorking.scala" />
+        <option value="$PROJECT_DIR$/src/vending/VendingMachineBroken.scala" />
+        <option value="$PROJECT_DIR$/src/vending/VendingState.scala" />
+        <option value="$PROJECT_DIR$/src/vending/VendingStateWorking.scala" />
+        <option value="$PROJECT_DIR$/src/vending/VendingStateBroken.scala" />
+        <option value="$PROJECT_DIR$/src/vending/TestVendingMachine.scala" />
+        <option value="$PROJECT_DIR$/src/generics/genericTest.scala" />
+        <option value="$PROJECT_DIR$/src/generics/Generics.scala" />
+        <option value="$PROJECT_DIR$/src/climber/model/playerstates/airstates/Rising.scala" />
+        <option value="$PROJECT_DIR$/src/vending/VendingMachine.scala" />
+        <option value="$PROJECT_DIR$/src/inheritance/Park.scala" />
+        <option value="$PROJECT_DIR$/src/datastructures/LinkedListExample.scala" />
+        <option value="$PROJECT_DIR$/src/datastructures/LinkedListNode.scala" />
+        <option value="$PROJECT_DIR$/src/fp/ReturnFunction.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cse116" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1585" />
+    <option name="width" value="1628" />
+    <option name="height" value="1715" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CSE116LectureQuestions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE116LectureQuestions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE116LectureQuestions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE116LectureQuestions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE116LectureQuestions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE116LectureQuestions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE116LectureQuestions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE116LectureQuestions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="generics" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552343547675" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.19948186" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Edgar Ustian\IdeaProjects" />
+      <recent name="C:\Users\Edgar Ustian\IdeaProjects\CSE116LectureQuestions\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.LinkedListExample">
+    <configuration name="LinkedListExample" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.LinkedListExample" />
+      <module name="CSE116LectureQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Park" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.Park" />
+      <module name="CSE116LectureQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlatformerGUI" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="climber.view.PlatformerGUI" />
+      <module name="CSE116LectureQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="climber.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReturnFunction" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="fp.ReturnFunction" />
+      <module name="CSE116LectureQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestVendingMachine" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="vending.TestVendingMachine" />
+      <module name="CSE116LectureQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vending.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LinkedListExample" />
+        <item itemvalue="Application.Park" />
+        <item itemvalue="Application.PlatformerGUI" />
+        <item itemvalue="Application.ReturnFunction" />
+        <item itemvalue="Application.TestVendingMachine" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="dontShowConversionDialog" value="true" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="570ba57f-af63-4c4b-a594-0162f3060fbf" name="Default Changelist" comment="" />
+      <created>1549075044197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549075044197</updated>
+      <workItem from="1549075048045" duration="527000" />
+      <workItem from="1549302881460" duration="74000" />
+      <workItem from="1549303109173" duration="3378000" />
+      <workItem from="1549310241896" duration="261000" />
+      <workItem from="1549310569399" duration="139000" />
+      <workItem from="1549318308643" duration="1189000" />
+      <workItem from="1549346699116" duration="140000" />
+      <workItem from="1549379778774" duration="129000" />
+      <workItem from="1549476821357" duration="3183000" />
+      <workItem from="1549480627864" duration="5608000" />
+      <workItem from="1549488015049" duration="2000" />
+      <workItem from="1549490382018" duration="2856000" />
+      <workItem from="1549520923366" duration="156000" />
+      <workItem from="1549523274529" duration="242000" />
+      <workItem from="1549523522701" duration="127000" />
+      <workItem from="1549523663748" duration="6000" />
+      <workItem from="1549666302947" duration="3383000" />
+      <workItem from="1549759973784" duration="12000" />
+      <workItem from="1549760119927" duration="25000" />
+      <workItem from="1549914949653" duration="139000" />
+      <workItem from="1549915125703" duration="919000" />
+      <workItem from="1549921903003" duration="423000" />
+      <workItem from="1549929339486" duration="189000" />
+      <workItem from="1549938820250" duration="610000" />
+      <workItem from="1550113795938" duration="3594000" />
+      <workItem from="1550117539084" duration="1186000" />
+      <workItem from="1550515319264" duration="1072000" />
+      <workItem from="1550537266759" duration="2056000" />
+      <workItem from="1550557696743" duration="600000" />
+      <workItem from="1550687624960" duration="1515000" />
+      <workItem from="1550689612217" duration="2695000" />
+      <workItem from="1550709090390" duration="385000" />
+      <workItem from="1550723462139" duration="636000" />
+      <workItem from="1550889740526" duration="829000" />
+      <workItem from="1551129211906" duration="123000" />
+      <workItem from="1551129513589" duration="144000" />
+      <workItem from="1551141519081" duration="5305000" />
+      <workItem from="1551147585526" duration="382000" />
+      <workItem from="1551149415316" duration="1090000" />
+      <workItem from="1551165568321" duration="318000" />
+      <workItem from="1551166037497" duration="334000" />
+      <workItem from="1551242842126" duration="130000" />
+      <workItem from="1551243205687" duration="167000" />
+      <workItem from="1551244257567" duration="39000" />
+      <workItem from="1551244538302" duration="18000" />
+      <workItem from="1551668634004" duration="664000" />
+      <workItem from="1551677223766" duration="1388000" />
+      <workItem from="1551736598340" duration="489000" />
+      <workItem from="1551737175865" duration="4422000" />
+      <workItem from="1551848194073" duration="602000" />
+      <workItem from="1551920687670" duration="7568000" />
+      <workItem from="1552023022612" duration="3064000" />
+      <workItem from="1552099075084" duration="867000" />
+      <workItem from="1552248236817" duration="1436000" />
+      <workItem from="1552261619290" duration="761000" />
+      <workItem from="1552270671257" duration="642000" />
+      <workItem from="1552338933415" duration="2156000" />
+      <workItem from="1552343235053" duration="312000" />
+      <workItem from="1552343600517" duration="205000" />
+      <workItem from="1552687135696" duration="1028000" />
+      <workItem from="1552690401920" duration="663000" />
+      <workItem from="1552691747790" duration="1809000" />
+      <workItem from="1552763480938" duration="634000" />
+      <workItem from="1552766210184" duration="1402000" />
+      <workItem from="1552805261408" duration="2109000" />
+      <workItem from="1552951059150" duration="645000" />
+      <workItem from="1552963929319" duration="5000" />
+      <workItem from="1552974059018" duration="1478000" />
+      <workItem from="1553505253988" duration="611000" />
+      <workItem from="1553506507681" duration="662000" />
+      <workItem from="1553536487475" duration="949000" />
+      <workItem from="1553537503401" duration="3752000" />
+      <workItem from="1553545878662" duration="389000" />
+      <workItem from="1553659202893" duration="623000" />
+      <workItem from="1553742664714" duration="68000" />
+      <workItem from="1553742811286" duration="1014000" />
+      <workItem from="1553744089673" duration="433000" />
+      <workItem from="1553744778501" duration="1258000" />
+      <workItem from="1553756825212" duration="1093000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="UnitTests - 2019.02.06 at 13h 52m 22s.xml">
+      <configuration name="UnitTests" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="UnitTests - 2019.02.06 at 14h 10m 33s.xml">
+      <configuration name="UnitTests" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="UnitTesting - 2019.02.06 at 14h 32m 58s.xml">
+      <configuration name="UnitTesting" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestDataStructures - 2019.02.08 at 18h 18m 20s.xml">
+      <configuration name="TestDataStructures" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestDataStructures - 2019.02.08 at 18h 19m 15s.xml">
+      <configuration name="TestDataStructures" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestDataStructures - 2019.02.08 at 19h 34m 55s.xml">
+      <configuration name="TestDataStructures" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestReferee - 2019.02.13 at 23h 06m 06s.xml">
+      <configuration name="TestReferee" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestPolymorphism - 2019.02.20 at 13h 51m 16s.xml">
+      <configuration name="TestPolymorphism" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestPolymorphism - 2019.02.20 at 13h 55m 58s.xml">
+      <configuration name="TestPolymorphism" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestPolymorphism - 2019.02.20 at 14h 19m 05s.xml">
+      <configuration name="TestPolymorphism" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="91536000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48324516" visible="true" weight="0.16949153" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Structure" order="5" sideWeight="0.51675487" side_tool="true" weight="0.1622276" />
+      <window_info id="Favorites" order="6" side_tool="true" weight="0.3292978" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32957748" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3513011" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39926064" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32902032" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.4070632" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24939467" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.33252624" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="SciView" order="8" weight="0.3292978" />
+      <window_info anchor="right" id="Database" order="9" weight="0.3292978" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/lecture/FirstObject.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop/package.scala" />
+    <entry file="file://$PROJECT_DIR$/src/tests/UnitTesting.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="26" lean-forward="true" selection-start-line="1" selection-end-line="2" selection-end-column="26" />
+          <folding>
+            <element signature="e#14#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritance/package.scala" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/TestPolymorphism.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritance/Cat.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritance/Dog.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/json/Store.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/SampleGUI.scala" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/javafx-src.zip!/javafx/event/EventHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop/Score.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop/Team.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop/TestReferee.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/TestDataStructures.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="e#14#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scriptFile.scala" />
+    <entry file="file://$PROJECT_DIR$/src/words/RhymingDictionary.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/words/AlliterationLibrary.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Testing Scala/src/gui/rnjesus.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1566">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vending/package.scala" />
+    <entry file="file://$PROJECT_DIR$/src/words/Main.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/words/Word.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/words/WordInterface.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/words/YourWordAdapter.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop/Referee.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vending/VendingStateBroken.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vending/TestVendingMachine.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/climber/model/game_objects/PhysicalObject.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/climber/view/PlatformerGUI.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="90" column="11" selection-start-line="90" selection-start-column="11" selection-end-line="90" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/climber/model/physics/Physics.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="124" column="3" selection-start-line="124" selection-start-column="3" selection-end-line="124" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/climber/model/physics/PhysicsVector.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/climber/model/Player.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vending/VendingStateWorking.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/generics/genericTest.scala" />
+    <entry file="file://$PROJECT_DIR$/src/climber/model/playerstates/airstates/InAir.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/climber/model/playerstates/airstates/Falling.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/climber/model/playerstates/groundstates/OnGround.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/climber/model/playerstates/PlayerState.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/climber/model/playerstates/GameOver.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/climber/model/playerstates/airstates/Rising.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/climber/controller/KeyboardInputs.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vending/VendingState.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vending/VendingMachine.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="20" column="68" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritance/Animal.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/edu.buffalo.cse:cse116:0.0.1">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>edu.buffalo.cse:cse116:0.0.1</OriginalElement>
+          <nodes>
+            <node x="" y="">edu.buffalo.cse:cse116:0.0.1</node>
+            <node x="" y="">org.scalatest:scalatest_2.12:jar:3.0.5</node>
+            <node x="" y="">org.scalatest:scalatest_2.12:jar:3.0.5/org.scala-lang:scala-library:jar:2.12.4</node>
+            <node x="" y="">org.scalatest:scalatest_2.12:jar:3.0.5/org.scalactic:scalactic_2.12:jar:3.0.5</node>
+            <node x="" y="">org.scalatest:scalatest_2.12:jar:3.0.5/org.scala-lang:scala-reflect:jar:2.12.4</node>
+            <node x="" y="">org.scalatest:scalatest_2.12:jar:3.0.5/org.scala-lang.modules:scala-xml_2.12:jar:1.0.6</node>
+            <node x="" y="">org.scalatest:scalatest_2.12:jar:3.0.5/org.scala-lang.modules:scala-xml_2.12:jar:1.0.6/org.scala-lang:scala-library:jar:2.12.0</node>
+            <node x="" y="">org.scalafx:scalafx_2.12:jar:11-R16</node>
+            <node x="" y="">org.scalafx:scalafx_2.12:jar:11-R16/org.scala-lang:scala-library:jar:2.12.7</node>
+            <node x="" y="">org.scalafx:scalafx_2.12:jar:11-R16/org.scala-lang:scala-reflect:jar:2.12.7</node>
+            <node x="" y="">com.typesafe.play:play-json_2.12:jar:2.7.1</node>
+            <node x="" y="">com.typesafe.play:play-json_2.12:jar:2.7.1/org.scala-lang:scala-library:jar:2.12.8</node>
+            <node x="" y="">com.typesafe.play:play-json_2.12:jar:2.7.1/com.typesafe.play:play-functional_2.12:jar:2.7.1</node>
+            <node x="" y="">com.typesafe.play:play-json_2.12:jar:2.7.1/com.typesafe.play:play-functional_2.12:jar:2.7.1/org.scala-lang:scala-library:jar:2.12.4</node>
+            <node x="" y="">com.typesafe.play:play-json_2.12:jar:2.7.1/org.scala-lang:scala-reflect:jar:2.12.8</node>
+            <node x="" y="">com.typesafe.play:play-json_2.12:jar:2.7.1/org.typelevel:macro-compat_2.12:jar:1.1.1</node>
+            <node x="" y="">com.typesafe.play:play-json_2.12:jar:2.7.1/org.typelevel:macro-compat_2.12:jar:1.1.1/org.scala-lang:scala-library:jar:2.12.4</node>
+            <node x="" y="">com.typesafe.play:play-json_2.12:jar:2.7.1/joda-time:joda-time:jar:2.10.1</node>
+            <node x="" y="">com.typesafe.play:play-json_2.12:jar:2.7.1/com.fasterxml.jackson.core:jackson-core:jar:2.9.8</node>
+            <node x="" y="">com.typesafe.play:play-json_2.12:jar:2.7.1/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.8</node>
+            <node x="" y="">com.typesafe.play:play-json_2.12:jar:2.7.1/com.fasterxml.jackson.core:jackson-databind:jar:2.9.8</node>
+            <node x="" y="">com.typesafe.play:play-json_2.12:jar:2.7.1/com.fasterxml.jackson.core:jackson-databind:jar:2.9.8/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
+            <node x="" y="">com.typesafe.play:play-json_2.12:jar:2.7.1/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.8</node>
+            <node x="" y="">com.typesafe.play:play-json_2.12:jar:2.7.1/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.8</node>
+            <node x="" y="">com.typesafe.play:play-json_2.12:jar:2.7.1/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.8/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.8</node>
+            <node x="" y="">org.scalaj:scalaj-http_2.12:jar:2.4.1</node>
+            <node x="" y="">org.scalaj:scalaj-http_2.12:jar:2.4.1/org.scala-lang:scala-library:jar:2.12.6</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.7597484276729558" x="590.0" y="625.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritance/Park.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructures/LinkedListNode.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructures/LinkedListExample.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="71" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/generics/Generics.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fp/ReturnFunction.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19948186" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19948186" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.12.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19948186" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19948186" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>CSE116</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19948186" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.scala-lang.modules:scala-xml_2.12:1.0.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19948186" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
