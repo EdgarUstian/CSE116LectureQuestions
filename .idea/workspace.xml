@@ -1,7 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="570ba57f-af63-4c4b-a594-0162f3060fbf" name="Default Changelist" comment="" />
+    <list default="true" id="570ba57f-af63-4c4b-a594-0162f3060fbf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/datastructures/Queue.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/QueueExample.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/Stack.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/StackExample.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/LinkedListNode.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/LinkedListNode.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/climber/controller/ArrowInputs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/climber/controller/KeyboardInputs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/climber/controller/WASDInputs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/climber/model/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/climber/model/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/climber/model/game_objects/PhysicalObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/climber/model/game_objects/Platform$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/climber/model/game_objects/Platform.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/climber/model/physics/Physics$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/climber/model/physics/Physics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/climber/model/physics/PhysicsVector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/climber/model/physics/World.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/climber/model/playerstates/GameOver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/climber/model/playerstates/PlayerState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/climber/model/playerstates/airstates/Falling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/climber/model/playerstates/airstates/InAir.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/climber/model/playerstates/airstates/Rising.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/climber/model/playerstates/groundstates/OnGround.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/climber/model/playerstates/groundstates/Standing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/climber/model/playerstates/groundstates/Walking.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/climber/tests/TestComputeLocation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/climber/tests/TestDetectPlatformCollision.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/climber/tests/TestUpdateVelocity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/climber/view/PlatformerGUI$$anon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/climber/view/PlatformerGUI$$anon$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/climber/view/PlatformerGUI$$anon$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/climber/view/PlatformerGUI$$anon$4$$anon$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/climber/view/PlatformerGUI$$anon$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/climber/view/PlatformerGUI$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/climber/view/PlatformerGUI$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/climber/view/PlatformerGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/datastructures/LinkedListExample$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/datastructures/LinkedListExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/datastructures/LinkedListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fp/ReturnFunction$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fp/ReturnFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/generics/Generics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Park$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Park.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/json/Store.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lecture/DataStructures$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lecture/DataStructures.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lecture/FirstObject$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lecture/FirstObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lecture/LectureQuestion$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lecture/LectureQuestion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oop/Referee$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oop/Referee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oop/Score.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oop/Team.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oop/TestReferee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/TestDataStructures.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/TestPolymorphism.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/UnitTesting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/vending/TestVendingMachine$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/vending/TestVendingMachine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/vending/VendingMachine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/vending/VendingState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/vending/VendingStateBroken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/vending/VendingStateWorking.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/words/AlliterationLibrary$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/words/AlliterationLibrary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/words/Main$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/words/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/words/RhymingDictionary$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/words/RhymingDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/words/Word.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/words/WordInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/words/YourWordAdapter.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,12 +113,21 @@
     <favorites_list name="CSE116" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/datastructures/LinkedListNode.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/fp/ReturnFunction.scala">
+        <entry file="file://$PROJECT_DIR$/src/datastructures/Queue.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="69">
-              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -61,6 +149,9 @@
       <find>workingVending</find>
       <find>T</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -103,8 +194,8 @@
         <option value="$PROJECT_DIR$/src/vending/VendingMachine.scala" />
         <option value="$PROJECT_DIR$/src/inheritance/Park.scala" />
         <option value="$PROJECT_DIR$/src/datastructures/LinkedListExample.scala" />
-        <option value="$PROJECT_DIR$/src/datastructures/LinkedListNode.scala" />
         <option value="$PROJECT_DIR$/src/fp/ReturnFunction.scala" />
+        <option value="$PROJECT_DIR$/src/datastructures/LinkedListNode.scala" />
       </list>
     </option>
   </component>
@@ -126,9 +217,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1585" />
-    <option name="width" value="1628" />
+    <option name="width" value="1630" />
     <option name="height" value="1715" />
   </component>
   <component name="ProjectView">
@@ -154,13 +245,7 @@
               <item name="CSE116LectureQuestions" type="b2602c69:ProjectViewProjectNode" />
               <item name="CSE116LectureQuestions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CSE116LectureQuestions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CSE116LectureQuestions" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="generics" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructures" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -169,10 +254,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552343547675" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/datastructures" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -186,6 +272,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Edgar Ustian\IdeaProjects\CSE116LectureQuestions\src\datastructures" />
       <recent name="C:\Users\Edgar Ustian\IdeaProjects" />
       <recent name="C:\Users\Edgar Ustian\IdeaProjects\CSE116LectureQuestions\src" />
     </key>
@@ -373,6 +460,8 @@
       <workItem from="1553744089673" duration="433000" />
       <workItem from="1553744778501" duration="1258000" />
       <workItem from="1553756825212" duration="1093000" />
+      <workItem from="1553978672067" duration="95000" />
+      <workItem from="1554048424891" duration="217000" />
     </task>
     <servers />
   </component>
@@ -409,12 +498,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91536000" />
+    <option name="totallyTimeSpent" value="91848000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48324516" visible="true" weight="0.16949153" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48324516" visible="true" weight="0.18724778" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -454,13 +544,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lecture/FirstObject.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oop/package.scala" />
     <entry file="file://$PROJECT_DIR$/src/tests/UnitTesting.scala">
       <provider selected="true" editor-type-id="text-editor">
@@ -569,13 +652,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Testing Scala/src/gui/rnjesus.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1566">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Testing Scala/src/gui/rnjesus.scala" />
     <entry file="file://$PROJECT_DIR$/src/vending/package.scala" />
     <entry file="file://$PROJECT_DIR$/src/words/Main.scala">
       <provider selected="true" editor-type-id="text-editor">
@@ -790,13 +867,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructures/LinkedListNode.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/datastructures/LinkedListExample.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -813,8 +883,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fp/ReturnFunction.scala">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructures/LinkedListNode.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructures/Queue.scala">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
