@@ -108,7 +108,7 @@ class LinkedListNode[A](var value: A, var next: LinkedListNode[A]) {
     * calls the provided function on every element in the list
     */
   // foreach [lecture question]
-  def foreach(function: A = Unit): Unit = {
+  def foreach(function: A => Unit): Unit = {
     if (this.value != null){
       function(this.value)
       this.next.foreach(function)
