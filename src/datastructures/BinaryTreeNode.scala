@@ -8,4 +8,15 @@ class BinaryTreeNode[A](var value: A, var left: BinaryTreeNode[A], var right: Bi
     preOrderTraversal[A](this, _ => nodes += 1)
     nodes
   }
+
+  def otherSize(): Int = {
+    var count: Int = 1
+    if (this.left != null) {
+      count += this.left.otherSize()
+    }
+    if (this.right != null) {
+      count += this.right.otherSize()
+    }
+    count
+  }
 }

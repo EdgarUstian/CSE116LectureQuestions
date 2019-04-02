@@ -47,7 +47,7 @@ object BinaryTreeTraversals {
     postOrderTraversal(root, println)
 
     println("\nSize of Tree:")
-    println(root.size())
+    println(root.otherSize())
 
   }
 
