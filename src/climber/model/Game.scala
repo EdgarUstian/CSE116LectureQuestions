@@ -18,8 +18,8 @@ class Game {
     new Platform(new PhysicsVector(0, 0, 0), new PhysicsVector(gridWidth, 0, 0))
   )
 
-  val minPlatformWidth = 1.0
-  val maxPlatformWidth = 6.0
+  val minPlatformWidth = 5.0
+  val maxPlatformWidth = 10.0
   val maxPlatformGaps = 8.0
   val probabilityOfNoPlatforms = 0.2
   val gapProbability = 0.8

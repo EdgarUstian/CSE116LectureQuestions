@@ -1,8 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="570ba57f-af63-4c4b-a594-0162f3060fbf" name="Default Changelist" comment="">
+    <list default="true" id="570ba57f-af63-4c4b-a594-0162f3060fbf" name="Default Changelist" comment="Binary Tree Operations&#10;Return size of tree">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_13_ea_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_win_13_ea_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_13_ea_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_win_13_ea_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_13_ea_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_13_ea_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clicker/Game.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clicker/equipment/Equipment.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clicker/equipment/Excavators.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clicker/equipment/GoldMines.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clicker/equipment/Shovels.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clicker/gui/GUI.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clicker/gui/MyButtons.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/BinarySearchTree.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/BinaryTreeNode.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/BinaryTreeTraversals.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSE116LectureQuestions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CSE116LectureQuestions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/climber/model/Game.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/climber/model/Game.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/LinkedListExample.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/LinkedListExample.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/LinkedListNode.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/LinkedListNode.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/StackExample.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/StackExample.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -37,11 +59,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/climber/model/game_objects/Platform.scala">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/datastructures/BinaryTreeTraversals.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+            <state relative-caret-position="609">
+              <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/datastructures/BinaryTreeNode.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="103">
+              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/datastructures/LinkedListNode.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="114" column="5" selection-start-line="114" selection-start-column="5" selection-end-line="114" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/datastructures/BinarySearchTree.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/clicker/Game.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/clicker/gui/MyButtons.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="53" column="55" lean-forward="true" selection-start-line="53" selection-start-column="55" selection-end-line="53" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -62,6 +129,7 @@
       <find>VendingMachine</find>
       <find>workingVending</find>
       <find>T</find>
+      <find>platformCollision</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -87,7 +155,6 @@
         <option value="$PROJECT_DIR$/src/inheritance/Animal.scala" />
         <option value="$PROJECT_DIR$/src/tests/TestPolymorphism.scala" />
         <option value="$PROJECT_DIR$/src/json/Store.scala" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/gui/Gui.scala" />
         <option value="$PROJECT_DIR$/src/gui/rnjesus.scala" />
         <option value="$PROJECT_DIR$/src/words/RhymingDictionary.scala" />
@@ -107,9 +174,18 @@
         <option value="$PROJECT_DIR$/src/climber/model/playerstates/airstates/Rising.scala" />
         <option value="$PROJECT_DIR$/src/vending/VendingMachine.scala" />
         <option value="$PROJECT_DIR$/src/inheritance/Park.scala" />
-        <option value="$PROJECT_DIR$/src/datastructures/LinkedListExample.scala" />
         <option value="$PROJECT_DIR$/src/fp/ReturnFunction.scala" />
+        <option value="$PROJECT_DIR$/src/datastructures/LinkedListExample.scala" />
+        <option value="$PROJECT_DIR$/src/climber/model/Game.scala" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/climber/view/PlatformerGUI.scala" />
+        <option value="$PROJECT_DIR$/src/climber/controller/KeyboardInputs.scala" />
+        <option value="$PROJECT_DIR$/src/climber/datastructures/LinkedListNode.scala" />
         <option value="$PROJECT_DIR$/src/datastructures/LinkedListNode.scala" />
+        <option value="$PROJECT_DIR$/src/datastructures/BinaryTreeNode.scala" />
+        <option value="$PROJECT_DIR$/src/datastructures/BinaryTreeTraversals.scala" />
+        <option value="$PROJECT_DIR$/src/datastructures/BinarySearchTree.scala" />
+        <option value="$PROJECT_DIR$/src/clicker/gui/MyButtons.scala" />
       </list>
     </option>
   </component>
@@ -148,12 +224,23 @@
               <item name="CSE116LectureQuestions" type="b2602c69:ProjectViewProjectNode" />
               <item name="CSE116LectureQuestions" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CSE116LectureQuestions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE116LectureQuestions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE116LectureQuestions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE116LectureQuestions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructures" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -161,7 +248,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552343547675" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/datastructures" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Lecture Questions/Lecture/DataStructure/BinaryTree.zip" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -171,13 +258,13 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.19948186" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Edgar Ustian\IdeaProjects\CSE116LectureQuestions\src" />
       <recent name="C:\Users\Edgar Ustian\IdeaProjects\CSE116LectureQuestions\src\datastructures" />
       <recent name="C:\Users\Edgar Ustian\IdeaProjects" />
-      <recent name="C:\Users\Edgar Ustian\IdeaProjects\CSE116LectureQuestions\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -192,7 +279,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PlatformerGUI">
+  <component name="RunManager" selected="Application.BinaryTreeTraversals">
+    <configuration name="BinaryTreeTraversals" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.BinaryTreeTraversals" />
+      <module name="CSE116LectureQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LinkedListExample" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="datastructures.LinkedListExample" />
       <module name="CSE116LectureQuestions" />
@@ -245,26 +345,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestVendingMachine" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="vending.TestVendingMachine" />
-      <module name="CSE116LectureQuestions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="vending.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinaryTreeTraversals" />
         <item itemvalue="Application.PlatformerGUI" />
         <item itemvalue="Application.LinkedListExample" />
         <item itemvalue="Application.Park" />
         <item itemvalue="Application.ReturnFunction" />
-        <item itemvalue="Application.TestVendingMachine" />
       </list>
     </recent_temporary>
   </component>
@@ -366,6 +453,10 @@
       <workItem from="1553978672067" duration="95000" />
       <workItem from="1554048424891" duration="755000" />
       <workItem from="1554051264889" duration="116000" />
+      <workItem from="1554052981135" duration="12588000" />
+      <workItem from="1554133472602" duration="5451000" />
+      <workItem from="1554149795011" duration="2000" />
+      <workItem from="1554163313647" duration="4516000" />
     </task>
     <task id="LOCAL-00001" summary="Added extra linked list functionality">
       <created>1554048725161</created>
@@ -374,7 +465,14 @@
       <option name="project" value="LOCAL" />
       <updated>1554048725161</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fixed the mistype of the function input">
+      <created>1554053212262</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1554053212263</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -410,28 +508,28 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92502000" />
+    <option name="totallyTimeSpent" value="115059000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="634" y="0" width="651" height="686" extended-state="0" />
+    <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48324516" visible="true" weight="0.39363486" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48324516" visible="true" weight="0.18321227" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
-      <window_info id="Structure" order="5" sideWeight="0.51675487" side_tool="true" weight="0.1622276" />
+      <window_info id="Structure" order="5" sideWeight="0.51675487" side_tool="true" weight="0.07748184" />
       <window_info id="Favorites" order="6" side_tool="true" weight="0.3292978" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32957748" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3513011" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32902032" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3585952" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39926064" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32902032" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32902032" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -452,82 +550,20 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="Added extra linked list functionality" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added extra linked list functionality" />
+    <MESSAGE value="Fixed the mistype of the function input" />
+    <MESSAGE value="Binary Tree Operations&#10;Return size of tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="Binary Tree Operations&#10;Return size of tree" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/tests/UnitTesting.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="26" lean-forward="true" selection-start-line="1" selection-end-line="2" selection-end-column="26" />
-          <folding>
-            <element signature="e#14#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritance/package.scala" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tests/TestPolymorphism.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritance/Cat.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritance/Dog.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/json/Store.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/SampleGUI.scala" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/javafx-src.zip!/javafx/event/EventHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/Score.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oop/Team.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
@@ -618,27 +654,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/climber/view/PlatformerGUI.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="90" column="11" selection-start-line="90" selection-start-column="11" selection-end-line="90" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/climber/model/physics/Physics.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="124" column="3" selection-start-line="124" selection-start-column="3" selection-end-line="124" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/climber/model/physics/PhysicsVector.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/climber/model/Player.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -693,13 +708,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/climber/controller/KeyboardInputs.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -775,24 +783,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructures/LinkedListExample.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="71" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/generics/Generics.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fp/ReturnFunction.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -803,13 +797,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructures/LinkedListNode.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/climber/model/game_objects/PhysicalObject.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -817,10 +804,148 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/climber/tests/TestComputeLocation.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fp/ReturnFunction.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/climber/model/physics/PhysicsVector.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/climber/tests/TestDetectPlatformCollision.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/climber/model/physics/World.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/climber/view/PlatformerGUI.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+          <folding>
+            <element signature="e#22#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructures/LinkedListNode.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1129">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/climber/controller/KeyboardInputs.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding>
+            <element signature="e#28#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/climber/model/physics/Physics.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+          <folding>
+            <element signature="e#31#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/climber/model/game_objects/Platform.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        <state relative-caret-position="368">
+          <caret line="16" selection-start-line="4" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/climber/model/Game.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#23#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructures/LinkedListExample.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-669">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructures/LinkedListNode.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="114" column="5" selection-start-line="114" selection-start-column="5" selection-end-line="114" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructures/BinaryTreeNode.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructures/BinaryTreeTraversals.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructures/BinarySearchTree.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clicker/Game.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clicker/gui/MyButtons.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="53" column="55" lean-forward="true" selection-start-line="53" selection-start-column="55" selection-end-line="53" selection-end-column="55" />
         </state>
       </provider>
     </entry>

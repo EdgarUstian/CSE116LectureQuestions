@@ -113,9 +113,6 @@ class LinkedListNode[A](var value: A, var next: LinkedListNode[A]) {
       function(this.value)
       this.next.foreach(function)
     }
-    else if (this.value == null){
-      null
-    }
   }
 
   def foreachIterative(function: A => Unit): Unit = {
