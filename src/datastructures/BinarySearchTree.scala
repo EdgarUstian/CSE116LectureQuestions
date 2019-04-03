@@ -43,4 +43,12 @@ class BinarySearchTree[A](comparator: (A, A) => Boolean) {
       node
     }
   }
+
+  def max(): A = {
+    var node = this.root
+    while (node.right != null) {
+      node = node.right
+    }
+    node.value
+  }
 }

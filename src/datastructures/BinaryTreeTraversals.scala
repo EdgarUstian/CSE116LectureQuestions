@@ -26,7 +26,6 @@ object BinaryTreeTraversals {
     }
   }
 
-
   def binaryTreeExamples(): Unit = {
 
     val root = new BinaryTreeNode[Int](5, null, null)
@@ -52,8 +51,22 @@ object BinaryTreeTraversals {
   }
 
   def main(args: Array[String]): Unit = {
-    binaryTreeExamples()
+    insertBinaryTree()
   }
 
+  def insertBinaryTree(): Unit = {
+    val intLessThan = (a: Int, b: Int) => a < b
+    val bst = new BinarySearchTree[Int](intLessThan)
+    bst.insert(5)
+    bst.insert(2)
+    bst.insert(8)
+    bst.insert(4)
+    bst.insert(7)
+    bst.insert(14)
+    bst.insert(-3)
+    bst.insert(2)
+    bst.insert(20)
 
+    println(bst.max())
+  }
 }
