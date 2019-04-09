@@ -2,7 +2,7 @@ package datastructures
 
 class Stack[A] {
 
-  var top: LinkedListNode[A] = null
+  var top: LinkedListNode[A] = _
 
   def push(a: A): Unit = {
     this.top = new LinkedListNode[A](a, this.top)

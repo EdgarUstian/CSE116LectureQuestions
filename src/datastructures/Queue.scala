@@ -2,8 +2,8 @@ package datastructures
 
 class Queue[A] {
 
-  var front: LinkedListNode[A] = null
-  var back: LinkedListNode[A] = null
+  var front: LinkedListNode[A] = _
+  var back: LinkedListNode[A] = _
 
   def enqueue(a: A): Unit = {
     if (back == null) {

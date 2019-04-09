@@ -50,10 +50,6 @@ object BinaryTreeTraversals {
 
   }
 
-  def main(args: Array[String]): Unit = {
-    insertBinaryTree()
-  }
-
   def insertBinaryTree(): Unit = {
     val intLessThan = (a: Int, b: Int) => a < b
     val bst = new BinarySearchTree[Int](intLessThan)
@@ -68,5 +64,9 @@ object BinaryTreeTraversals {
     bst.insert(20)
 
     println(bst.max())
+  }
+
+  def main(args: Array[String]): Unit = {
+    binaryTreeExamples()
   }
 }
