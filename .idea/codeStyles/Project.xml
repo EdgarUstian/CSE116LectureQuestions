@@ -1,9 +1,6 @@
 <component name="ProjectCodeStyleConfiguration">
   <code_scheme name="Project" version="173">
     <option name="RIGHT_MARGIN" value="80" />
-    <ScalaCodeStyleSettings>
-      <option name="USE_SCALADOC2_FORMATTING" value="true" />
-    </ScalaCodeStyleSettings>
     <codeStyleSettings language="JAVA">
       <indentOptions>
         <option name="INDENT_SIZE" value="2" />
