@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="570ba57f-af63-4c4b-a594-0162f3060fbf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/datastructures/ExpressionTree.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructures/BinaryTreeTraversals.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/BinaryTreeTraversals.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructures/Queue.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/Queue.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructures/Stack.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/Stack.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -40,17 +36,7 @@
     <favorites_list name="CSE116" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/clicker/gui/GUI.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -154,6 +140,7 @@
     <option name="height" value="1716" />
   </component>
   <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -161,7 +148,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,20 +165,13 @@
               <item name="CSE116LectureQuestions" type="b2602c69:ProjectViewProjectNode" />
               <item name="CSE116LectureQuestions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="clicker" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CSE116LectureQuestions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CSE116LectureQuestions" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="clicker" type="462c0819:PsiDirectoryNode" />
-              <item name="gui" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructures" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -419,6 +399,7 @@
       <workItem from="1554584721028" duration="18000" />
       <workItem from="1554584873909" duration="22000" />
       <workItem from="1554584945745" duration="13000" />
+      <workItem from="1554816779550" duration="120000" />
     </task>
     <task id="LOCAL-00001" summary="Added extra linked list functionality">
       <created>1554048725161</created>
@@ -455,7 +436,14 @@
       <option name="project" value="LOCAL" />
       <updated>1554325556833</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Calculation Expression Trees">
+      <created>1554816849510</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1554816849510</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -491,13 +479,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135573000" />
+    <option name="totallyTimeSpent" value="135693000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
       <window_info id="Learn" order="0" weight="0.3292978" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.48324516" visible="true" weight="0.18886198" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.48324516" visible="true" weight="0.19128329" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -539,7 +527,8 @@
     <MESSAGE value="Binary Tree Operations&#10;Return size of tree" />
     <MESSAGE value="Added another method for finding size of tree" />
     <MESSAGE value="Added a max method for finding the largest node value of a binary search tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added a max method for finding the largest node value of a binary search tree" />
+    <MESSAGE value="Calculation Expression Trees" />
+    <option name="LAST_COMMIT_MESSAGE" value="Calculation Expression Trees" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
