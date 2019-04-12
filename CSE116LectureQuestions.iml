@@ -2,7 +2,7 @@
 <module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="Python" name="Python">
-      <configuration sdkName="Python 3.7" />
+      <configuration sdkName="" />
     </facet>
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5">
@@ -15,7 +15,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="scala-sdk-2.12.6" level="application" />
-    <orderEntry type="library" name="Python 3.7 interpreter library" level="application" />
+    <orderEntry type="library" name="scala-sdk-2.12.8 (2)" level="application" />
     <orderEntry type="library" name="Maven: org.scalatest:scalatest_2.12:3.0.5" level="project" />
     <orderEntry type="library" name="Maven: org.scala-lang:scala-library:2.12.4" level="project" />
     <orderEntry type="library" name="Maven: org.scalactic:scalactic_2.12:3.0.5" level="project" />
@@ -32,11 +32,10 @@
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.9.8" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.9.8" level="project" />
     <orderEntry type="library" name="Maven: org.scalaj:scalaj-http_2.12:2.4.1" level="project" />
-    <orderEntry type="library" name="Maven: org.openjfx:javafx-controls:13-ea+3" level="project" />
-    <orderEntry type="library" name="Maven: org.openjfx:javafx-controls:win:13-ea+3" level="project" />
-    <orderEntry type="library" name="Maven: org.openjfx:javafx-graphics:13-ea+3" level="project" />
-    <orderEntry type="library" name="Maven: org.openjfx:javafx-graphics:win:13-ea+3" level="project" />
-    <orderEntry type="library" name="Maven: org.openjfx:javafx-base:13-ea+3" level="project" />
-    <orderEntry type="library" name="Maven: org.openjfx:javafx-base:win:13-ea+3" level="project" />
+    <orderEntry type="library" name="Maven: com.typesafe.akka:akka-actor_2.12:2.5.22" level="project" />
+    <orderEntry type="library" name="Maven: com.typesafe:config:1.3.3" level="project" />
+    <orderEntry type="library" name="Maven: org.scala-lang.modules:scala-java8-compat_2.12:0.8.0" level="project" />
+    <orderEntry type="library" name="Maven: mysql:mysql-connector-java:8.0.15" level="project" />
+    <orderEntry type="library" name="Maven: com.google.protobuf:protobuf-java:3.6.1" level="project" />
   </component>
 </module>
