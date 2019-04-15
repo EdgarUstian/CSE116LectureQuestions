@@ -1,24 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="570ba57f-af63-4c4b-a594-0162f3060fbf" name="Default Changelist" comment="Scala Actors added">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_actor_2_12_2_5_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_config_1_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_java8_compat_2_12_0_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/LectureServer.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_13_ea_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_win_13_ea_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_13_ea_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_win_13_ea_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_13_ea_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_13_ea_3.xml" beforeDir="false" />
+    <list default="true" id="570ba57f-af63-4c4b-a594-0162f3060fbf" name="Default Changelist" comment="Changes something">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSE116LectureQuestions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CSE116LectureQuestions.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/BinaryTreeNode.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/BinaryTreeNode.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/BinaryTreeTraversals.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/BinaryTreeTraversals.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -52,30 +39,26 @@
     <favorites_list name="CSE116" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/datastructures/ExpressionTree.scala">
+        <entry file="file://$PROJECT_DIR$/src/datastructures/BinaryTreeTraversals.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="858">
-              <caret line="110" column="31" selection-start-line="110" selection-start-column="31" selection-end-line="110" selection-end-column="31" />
+            <state relative-caret-position="122">
+              <caret line="35" column="61" selection-start-line="35" selection-start-column="61" selection-end-line="35" selection-end-column="61" />
               <folding>
-                <element signature="e#114#539#0" />
-                <element signature="e#321#349#0" />
+                <element signature="e#57#258#0" />
+                <element signature="e#262#466#0" />
+                <element signature="e#470#677#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/concurrency/LectureServer.scala">
+        <entry file="file://$PROJECT_DIR$/src/datastructures/BinaryTreeNode.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="469">
-              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
-              <folding>
-                <element signature="e#21#54#0" expanded="true" />
-                <element signature="e#249#261#0" expanded="true" />
-                <element signature="e#1214#1243#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="122">
+              <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -148,15 +131,15 @@
         <option value="$PROJECT_DIR$/src/climber/datastructures/LinkedListNode.scala" />
         <option value="$PROJECT_DIR$/src/datastructures/LinkedListNode.scala" />
         <option value="$PROJECT_DIR$/src/clicker/gui/MyButtons.scala" />
-        <option value="$PROJECT_DIR$/src/datastructures/BinaryTreeNode.scala" />
         <option value="$PROJECT_DIR$/src/datastructures/Stack.scala" />
         <option value="$PROJECT_DIR$/src/datastructures/Queue.scala" />
         <option value="$PROJECT_DIR$/src/datastructures/BinarySearchTree.scala" />
-        <option value="$PROJECT_DIR$/src/datastructures/BinaryTreeTraversals.scala" />
         <option value="$PROJECT_DIR$/src/datastructures/ExpressionTree.scala" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/concurrency/SocketServer.scala" />
         <option value="$PROJECT_DIR$/src/concurrency/LectureServer.scala" />
+        <option value="$PROJECT_DIR$/src/datastructures/BinaryTreeTraversals.scala" />
+        <option value="$PROJECT_DIR$/src/datastructures/BinaryTreeNode.scala" />
       </list>
     </option>
   </component>
@@ -178,10 +161,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1208" />
-    <option name="width" value="1192" />
-    <option name="height" value="1548" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="Update" />
@@ -192,7 +175,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -210,12 +192,13 @@
               <item name="CSE116LectureQuestions" type="b2602c69:ProjectViewProjectNode" />
               <item name="CSE116LectureQuestions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructures" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -255,7 +238,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExpressionTree">
+  <component name="RunManager" selected="Application.BinaryTreeTraversals">
     <configuration name="BinaryTreeTraversals" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="datastructures.BinaryTreeTraversals" />
       <module name="CSE116LectureQuestions" />
@@ -323,8 +306,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExpressionTree" />
         <item itemvalue="Application.BinaryTreeTraversals" />
+        <item itemvalue="Application.ExpressionTree" />
         <item itemvalue="Application.PlatformerGUI" />
         <item itemvalue="Application.LinkedListExample" />
         <item itemvalue="Application.Park" />
@@ -448,6 +431,7 @@
       <workItem from="1554842719518" duration="647000" />
       <workItem from="1554934322120" duration="9000" />
       <workItem from="1554942848339" duration="1719000" />
+      <workItem from="1555348536046" duration="3641000" />
     </task>
     <task id="LOCAL-00001" summary="Added extra linked list functionality">
       <created>1554048725161</created>
@@ -520,14 +504,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138626000" />
+    <option name="totallyTimeSpent" value="142287000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="2400" height="1548" extended-state="6" />
-    <editor active="true" />
+    <frame x="-6" y="0" width="781" height="830" extended-state="0" />
     <layout>
       <window_info id="Learn" order="0" weight="0.3292978" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.48971963" visible="true" weight="0.19432501" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.48971963" weight="0.40413794" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -536,17 +519,17 @@
       <window_info id="Favorites" order="7" sideWeight="0.5102804" side_tool="true" weight="0.4042934" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32902032" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.44547135" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44378698" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39926064" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49914014" weight="0.8037383" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49914014" weight="0.80221814" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32902032" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50085986" side_tool="true" weight="0.32824427" />
-      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.40412527" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.40384614" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24939467" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -558,6 +541,39 @@
       <window_info anchor="right" id="SciView" order="8" weight="0.3292978" />
       <window_info anchor="right" id="Database" order="9" weight="0.3292978" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Learn" order="0" weight="0.3292978" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.48324516" visible="true" weight="0.19128329" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Structure" order="6" sideWeight="0.51675487" side_tool="true" weight="0.07748184" />
+      <window_info id="Favorites" order="7" side_tool="true" weight="0.3292978" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32902032" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44547135" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39926064" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32902032" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32902032" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" visible="true" weight="0.32902032" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.40480593" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24939467" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.33252624" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="SciView" order="8" weight="0.3292978" />
+      <window_info anchor="right" id="Database" order="9" weight="0.3292978" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -869,13 +885,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructures/BinaryTreeNode.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/datastructures/Queue.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -884,18 +893,6 @@
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/NumberFormatException.java" />
-    <entry file="file://$PROJECT_DIR$/src/datastructures/BinaryTreeTraversals.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="998">
-          <caret line="72" selection-start-line="72" selection-end-line="72" />
-          <folding>
-            <element signature="e#57#258#0" />
-            <element signature="e#262#466#0" />
-            <element signature="e#470#677#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/clicker/gui/GUI.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -949,30 +946,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrency/ConcurrentCounters.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-210">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#21#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrency/SocketClient.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrency/SocketServer.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/ConcurrentCounters.scala" />
+    <entry file="file://$PROJECT_DIR$/src/concurrency/SocketClient.scala" />
+    <entry file="file://$PROJECT_DIR$/src/concurrency/SocketServer.scala" />
     <entry file="file://$PROJECT_DIR$/src/concurrency/LectureServer.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="469">
@@ -982,6 +958,25 @@
             <element signature="e#249#261#0" expanded="true" />
             <element signature="e#1214#1243#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructures/BinaryTreeTraversals.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="35" column="61" selection-start-line="35" selection-start-column="61" selection-end-line="35" selection-end-column="61" />
+          <folding>
+            <element signature="e#57#258#0" />
+            <element signature="e#262#466#0" />
+            <element signature="e#470#677#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructures/BinaryTreeNode.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
         </state>
       </provider>
     </entry>

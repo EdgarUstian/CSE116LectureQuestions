@@ -28,40 +28,41 @@ object BinaryTreeTraversals {
 
   def binaryTreeExamples(): Unit = {
 
-    val root = new BinaryTreeNode[Int](5, null, null)
+    val root = new BinaryTreeNode[Int](7, null, null)
     root.left = new BinaryTreeNode[Int](2, null, null)
-    root.right = new BinaryTreeNode[Int](8, null, null)
-    root.left.left = new BinaryTreeNode[Int](-3, null, null)
-    root.left.right = new BinaryTreeNode[Int](4, null, null)
-    root.right.left = new BinaryTreeNode[Int](7, null, null)
-    root.right.right = new BinaryTreeNode[Int](14, null, null)
+    root.right = new BinaryTreeNode[Int](16, null, null)
+    root.left.right = new BinaryTreeNode[Int](-8, null, null)
+    root.right.left = new BinaryTreeNode[Int](10, null, null)
+    root.right.right = new BinaryTreeNode[Int](6, null, null)
 
-    println("In-order Traversal:")
-    inOrderTraversal(root, println)
+    val customFunction = (a: Int, b: Int, c: Int) => a + 2 * b - c
+    println(root.compute(customFunction))
 
-    println("\nPre-order Traversal:")
-    preOrderTraversal(root, println)
-
-    println("\nPost-order Traversal:")
-    postOrderTraversal(root, println)
-
-    println("\nSize of Tree:")
-    println(root.otherSize())
+    //    println("Pre-order Traversal:")
+    //    preOrderTraversal(root, println)
+    //
+    //    println("\nIn-order Traversal:")
+    //    inOrderTraversal(root, println)
+    //
+    //    println("\nPost-order Traversal:")
+    //    postOrderTraversal(root, println)
+    //
+    //    println("\nSize of Tree:")
+    //    println(root.otherSize())
 
   }
 
   def insertBinaryTree(): Unit = {
     val intLessThan = (a: Int, b: Int) => a < b
     val bst = new BinarySearchTree[Int](intLessThan)
-    bst.insert(5)
-    bst.insert(2)
+    bst.insert(10)
+    bst.insert(-9)
+    bst.insert(9)
+    bst.insert(-6)
     bst.insert(8)
-    bst.insert(4)
-    bst.insert(7)
-    bst.insert(14)
-    bst.insert(-3)
-    bst.insert(2)
-    bst.insert(20)
+    bst.insert(1)
+    bst.insert(-10)
+    bst.insert(12)
 
     println(bst.max())
   }
