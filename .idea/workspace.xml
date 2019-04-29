@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="570ba57f-af63-4c4b-a594-0162f3060fbf" name="Default Changelist" comment="Changes something">
+    <list default="true" id="570ba57f-af63-4c4b-a594-0162f3060fbf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSE116LectureQuestions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CSE116LectureQuestions.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructures/BinaryTreeNode.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/BinaryTreeNode.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructures/BinaryTreeTraversals.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/BinaryTreeTraversals.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -39,11 +36,11 @@
     <favorites_list name="CSE116" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/datastructures/BinaryTreeTraversals.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
+            <state relative-caret-position="408">
               <caret line="35" column="61" selection-start-line="35" selection-start-column="61" selection-end-line="35" selection-end-column="61" />
               <folding>
                 <element signature="e#57#258#0" />
@@ -161,10 +158,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-15" />
+    <option name="width" value="1629" />
+    <option name="height" value="1107" />
   </component>
   <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="Update" />
@@ -176,6 +173,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,7 +196,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -431,7 +428,8 @@
       <workItem from="1554842719518" duration="647000" />
       <workItem from="1554934322120" duration="9000" />
       <workItem from="1554942848339" duration="1719000" />
-      <workItem from="1555348536046" duration="3641000" />
+      <workItem from="1555348536046" duration="3680000" />
+      <workItem from="1555872122399" duration="166000" />
     </task>
     <task id="LOCAL-00001" summary="Added extra linked list functionality">
       <created>1554048725161</created>
@@ -468,7 +466,14 @@
       <option name="project" value="LOCAL" />
       <updated>1554325556833</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added some questions from the practice lab quiz in order to see how the functions act in code">
+      <created>1555352674137</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1555352674137</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -504,13 +509,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142287000" />
+    <option name="totallyTimeSpent" value="142492000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="781" height="830" extended-state="0" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
       <window_info id="Learn" order="0" weight="0.3292978" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.48971963" weight="0.40413794" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.48971963" visible="true" weight="0.40355125" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -586,7 +591,8 @@
     <MESSAGE value="Added another method for finding size of tree" />
     <MESSAGE value="Added a max method for finding the largest node value of a binary search tree" />
     <MESSAGE value="Scala Actors added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Scala Actors added" />
+    <MESSAGE value="Added some questions from the practice lab quiz in order to see how the functions act in code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some questions from the practice lab quiz in order to see how the functions act in code" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -963,7 +969,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/datastructures/BinaryTreeTraversals.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
+        <state relative-caret-position="408">
           <caret line="35" column="61" selection-start-line="35" selection-start-column="61" selection-end-line="35" selection-end-column="61" />
           <folding>
             <element signature="e#57#258#0" />
