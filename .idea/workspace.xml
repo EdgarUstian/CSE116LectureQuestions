@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="570ba57f-af63-4c4b-a594-0162f3060fbf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/graphs/Graph.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphs/GraphExample.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -38,24 +40,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/datastructures/BinaryTreeTraversals.scala">
+        <entry file="file://$PROJECT_DIR$/src/graphs/Graph.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="35" column="61" selection-start-line="35" selection-start-column="61" selection-end-line="35" selection-end-column="61" />
-              <folding>
-                <element signature="e#57#258#0" />
-                <element signature="e#262#466#0" />
-                <element signature="e#470#677#0" />
-              </folding>
+            <state relative-caret-position="361">
+              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/graphs/GraphExample.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="960">
+              <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/datastructures/BinaryTreeNode.scala">
+        <entry file="file://$PROJECT_DIR$/src/fp/ReturnFunction.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+            <state relative-caret-position="72">
+              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -86,8 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lecture/LectureQuestion.scala" />
-        <option value="$PROJECT_DIR$/src/lecture/FirstObject.scala" />
         <option value="$PROJECT_DIR$/src/lecture/DataStructures.scala" />
         <option value="$PROJECT_DIR$/src/tests/TestDataStructures.scala" />
         <option value="$PROJECT_DIR$/src/oop/Score.scala" />
@@ -137,6 +141,8 @@
         <option value="$PROJECT_DIR$/src/concurrency/LectureServer.scala" />
         <option value="$PROJECT_DIR$/src/datastructures/BinaryTreeTraversals.scala" />
         <option value="$PROJECT_DIR$/src/datastructures/BinaryTreeNode.scala" />
+        <option value="$PROJECT_DIR$/src/graphs/Graph.scala" />
+        <option value="$PROJECT_DIR$/src/graphs/GraphExample.scala" />
       </list>
     </option>
   </component>
@@ -160,8 +166,8 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-15" />
-    <option name="width" value="1629" />
-    <option name="height" value="1107" />
+    <option name="width" value="1630" />
+    <option name="height" value="1108" />
   </component>
   <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="Update" />
@@ -172,8 +178,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -190,7 +196,7 @@
               <item name="CSE116LectureQuestions" type="b2602c69:ProjectViewProjectNode" />
               <item name="CSE116LectureQuestions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="datastructures" type="462c0819:PsiDirectoryNode" />
+              <item name="graphs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -203,7 +209,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552343547675" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Lecture Questions/Lecture/Graphs" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -217,9 +223,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Edgar Ustian\IdeaProjects\CSE116LectureQuestions\src" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="C:\Users\Edgar Ustian\IdeaProjects\CSE116LectureQuestions\src\datastructures" />
-      <recent name="C:\Users\Edgar Ustian\IdeaProjects\CSE116LectureQuestions\src" />
       <recent name="C:\Users\Edgar Ustian\IdeaProjects" />
     </key>
   </component>
@@ -235,7 +241,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinaryTreeTraversals">
+  <component name="RunManager" selected="Application.GraphExample">
     <configuration name="BinaryTreeTraversals" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="datastructures.BinaryTreeTraversals" />
       <module name="CSE116LectureQuestions" />
@@ -262,12 +268,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListExample" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="datastructures.LinkedListExample" />
+    <configuration name="GraphExample" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="graphs.GraphExample" />
       <module name="CSE116LectureQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructures.*" />
+          <option name="PATTERN" value="graphs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,12 +281,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Park" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.Park" />
+    <configuration name="LinkedListExample" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.LinkedListExample" />
       <module name="CSE116LectureQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inheritance.*" />
+          <option name="PATTERN" value="datastructures.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -303,11 +309,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GraphExample" />
         <item itemvalue="Application.BinaryTreeTraversals" />
         <item itemvalue="Application.ExpressionTree" />
         <item itemvalue="Application.PlatformerGUI" />
         <item itemvalue="Application.LinkedListExample" />
-        <item itemvalue="Application.Park" />
       </list>
     </recent_temporary>
   </component>
@@ -430,6 +436,8 @@
       <workItem from="1554942848339" duration="1719000" />
       <workItem from="1555348536046" duration="3680000" />
       <workItem from="1555872122399" duration="166000" />
+      <workItem from="1556556739095" duration="4302000" />
+      <workItem from="1556927361503" duration="669000" />
     </task>
     <task id="LOCAL-00001" summary="Added extra linked list functionality">
       <created>1554048725161</created>
@@ -473,7 +481,14 @@
       <option name="project" value="LOCAL" />
       <updated>1555352674137</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Didn't do much this time">
+      <created>1556556769215</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1556556769215</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -509,13 +524,14 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142492000" />
+    <option name="totallyTimeSpent" value="147463000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Learn" order="0" weight="0.3292978" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.48971963" visible="true" weight="0.40355125" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.48971963" weight="0.1646489" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -524,7 +540,7 @@
       <window_info id="Favorites" order="7" sideWeight="0.5102804" side_tool="true" weight="0.4042934" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32902032" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.44378698" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26432532" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39926064" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -533,7 +549,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49914014" weight="0.80221814" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32902032" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50085986" side_tool="true" weight="0.32824427" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50085986" side_tool="true" weight="0.3271719" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.40384614" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24939467" />
@@ -592,7 +608,8 @@
     <MESSAGE value="Added a max method for finding the largest node value of a binary search tree" />
     <MESSAGE value="Scala Actors added" />
     <MESSAGE value="Added some questions from the practice lab quiz in order to see how the functions act in code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added some questions from the practice lab quiz in order to see how the functions act in code" />
+    <MESSAGE value="Didn't do much this time" />
+    <option name="LAST_COMMIT_MESSAGE" value="Didn't do much this time" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -602,14 +619,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/vending/package.scala" />
-    <entry file="file://$PROJECT_DIR$/src/words/Main.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/words/Word.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -802,13 +811,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/fp/ReturnFunction.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/climber/model/physics/PhysicsVector.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -967,6 +969,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructures/BinaryTreeNode.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/datastructures/BinaryTreeTraversals.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -979,10 +988,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructures/BinaryTreeNode.scala">
+    <entry file="file://$PROJECT_DIR$/src/graphs/Graph.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        <state relative-caret-position="361">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphs/GraphExample.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fp/ReturnFunction.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
         </state>
       </provider>
     </entry>
